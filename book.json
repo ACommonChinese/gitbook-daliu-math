@@ -1,0 +1,7 @@
+{
+    "plugins": [
+    	"toggle-chapters",
+    	"include-codeblock",
+    	"katex"
+    ]
+}
